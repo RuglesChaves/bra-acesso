@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<DATAPACKET Version="2.0">  
+  <METADATA> 
+    <FIELDS> 
+      <FIELD attrname="ID_COMANDA" fieldtype="string" WIDTH="12" /> 
+      <FIELD attrname="EVENTO" fieldtype="string" WIDTH="1" /> 
+    </FIELDS>  
+    <PARAMS /> 
+  </METADATA>  
+<ROWDATA>     
+  <ROW RowState="4" ID_COMANDA="000000000007" EVENTO="C" /> 
+  <ROW RowState="4" ID_COMANDA="000000000008" EVENTO="C" /> 
+</ROWDATA> 
+</DATAPACKET>
